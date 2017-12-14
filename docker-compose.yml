@@ -1,0 +1,10 @@
+#Uncomment the volumes mount for live coding
+version: '2'
+services:
+  generatorvoucher:
+    image: arif23/generatorvoucher:1.0.2
+    ports:
+      - "80:80"
+    volumes:
+     - ./src/.:/var/www/html/
+    env_file: .env

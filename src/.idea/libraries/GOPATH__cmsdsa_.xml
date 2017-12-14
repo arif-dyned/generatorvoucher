@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;cmsdsa&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/src/gopkg.in" />
+      <root url="file://$USER_HOME$/Documents/src/LiveCronSession" />
+      <root url="file://$USER_HOME$/Documents/go/src/crone" />
+      <root url="file://$USER_HOME$/Documents/go/src/first" />
+      <root url="file://$USER_HOME$/Documents/src/github.com" />
+      <root url="file://$USER_HOME$/Documents/go/src/croneLives" />
+      <root url="file://$USER_HOME$/Documents/go/src/github.com" />
+      <root url="file://$USER_HOME$/Documents/go/src/croneLive" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/src/gopkg.in" />
+      <root url="file://$USER_HOME$/Documents/src/LiveCronSession" />
+      <root url="file://$USER_HOME$/Documents/go/src/crone" />
+      <root url="file://$USER_HOME$/Documents/go/src/first" />
+      <root url="file://$USER_HOME$/Documents/src/github.com" />
+      <root url="file://$USER_HOME$/Documents/go/src/croneLives" />
+      <root url="file://$USER_HOME$/Documents/go/src/github.com" />
+      <root url="file://$USER_HOME$/Documents/go/src/croneLive" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
